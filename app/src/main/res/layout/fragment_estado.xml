@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".Estado"
+    android:background="@android:color/white">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="296dp"
+            android:layout_height="198dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="87dp"
+            app:srcCompat="@drawable/botella" />
+
+        <TextView
+            android:id="@+id/txtPet"
+            android:layout_width="295dp"
+            android:layout_height="63dp"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="65dp"
+            android:text=""
+            android:textColor="@android:color/background_dark"
+            android:textSize="20dp" />
+
+        <TextView
+            android:id="@+id/txtAgua"
+            android:layout_width="295dp"
+            android:layout_height="58dp"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="151dp"
+            android:text=""
+            android:textColor="@android:color/background_dark"
+            android:textSize="20dp" />
+
+    </RelativeLayout>
+
+</FrameLayout>

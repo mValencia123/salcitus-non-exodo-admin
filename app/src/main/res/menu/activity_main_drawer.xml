@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/Estado"
+            android:icon="@drawable/estado"
+            android:title="Estado fisico" />
+        <item
+            android:id="@+id/Usuario"
+            android:icon="@drawable/crearusuario"
+            android:title="Crear Usuario" />
+        <item
+            android:id="@+id/BajaUsuario"
+            android:icon="@drawable/eliminado"
+            android:title="Eliminar usuario" />
+        <item
+            android:id="@+id/ModificarUsuario"
+            android:icon="@drawable/crearusuario"
+            android:title="Modificar contraseña" />
+        <item
+            android:id="@+id/RestablecerUsuario"
+            android:icon="@drawable/eliminado"
+            android:title="Restablecer contraseña" />
+        <item
+            android:id="@+id/Consulta"
+            android:icon="@drawable/consulta"
+            android:title="Consulta" />
+        <item
+            android:id="@+id/Encuesta"
+            android:icon="@drawable/encuestaicono"
+            android:title="Encuesta" />
+        <item
+            android:id="@+id/EncuestaEspecifica"
+            android:icon="@drawable/consultados"
+            android:title="Consulta especifica" />
+    </group>
+
+</menu>

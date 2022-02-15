@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "814020243445",
+    "firebase_url": "https://salvitus-non-exodo.firebaseio.com",
+    "project_id": "salvitus-non-exodo",
+    "storage_bucket": "salvitus-non-exodo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814020243445:android:e0c244630b6662dc",
+        "android_client_info": {
+          "package_name": "mivo.pm6e1.salvitus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814020243445-sc9kqnrsut69dvsvlps4sk1jrf1n0f8e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mivo.pm6e1.salvitus",
+            "certificate_hash": "ed189d5b894498ad23e1b2a37b46f72d8917709c"
+          }
+        },
+        {
+          "client_id": "814020243445-t6ev7sab6f9nssp76oe5cndhfrvji5ls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwa5r6fTO93zhQRBWULqNd1ch0uOPcHCE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814020243445-t6ev7sab6f9nssp76oe5cndhfrvji5ls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814020243445:android:e9ced88c57b83356",
+        "android_client_info": {
+          "package_name": "mivo.pm6e1.salvitusnon_exodo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814020243445-qtn14gu2c1g4o60ic7ij6fht3358htnd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mivo.pm6e1.salvitusnon_exodo",
+            "certificate_hash": "ed189d5b894498ad23e1b2a37b46f72d8917709c"
+          }
+        },
+        {
+          "client_id": "814020243445-t6ev7sab6f9nssp76oe5cndhfrvji5ls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwa5r6fTO93zhQRBWULqNd1ch0uOPcHCE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814020243445-t6ev7sab6f9nssp76oe5cndhfrvji5ls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814020243445:android:c2b1bd9de8bf47a7",
+        "android_client_info": {
+          "package_name": "mivo.pm6e1.salvitusnonexodocontrol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814020243445-a9u30kb8tpanpi01tbc1pqfjae3lvmma.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mivo.pm6e1.salvitusnonexodocontrol",
+            "certificate_hash": "ed189d5b894498ad23e1b2a37b46f72d8917709c"
+          }
+        },
+        {
+          "client_id": "814020243445-t6ev7sab6f9nssp76oe5cndhfrvji5ls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwa5r6fTO93zhQRBWULqNd1ch0uOPcHCE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814020243445-t6ev7sab6f9nssp76oe5cndhfrvji5ls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
